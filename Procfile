@@ -1,1 +1,1 @@
-/bin/bash -c "node ./server.js"
+web: /bin/bash -c "node ./server.js"
